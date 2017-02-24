@@ -28,20 +28,20 @@ Ensure that Xcode, Android SDK is setup for IOS and Android respectively
 
 ## GIF!
 
-### authentication
+### Auth
 
-![](http://www.giphy.com/gifs/l44QqEvxXY72IVVvy)
+![](gif/auth.gif)
 
 ### Create
 
-![](http://www.giphy.com/gifs/l44QByhoa2xmkPaI8)
+![]![](gif/create.gif)
 
 ### Edit
 
-![](http://www.giphy.com/gifs/26BGqVQEwzoIIH4as)
+![]![](gif/edit.gif)
 
 ### Fire!
 
-![](http://www.giphy.com/gifs/l44QghGooQ8zVkAk8)
+![]![](gif/fire.gif)
 
 
