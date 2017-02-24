@@ -9,7 +9,13 @@
 Demo app for managing employees. Allows a manager to signin, see the list of employees. Add new employees or edit the details of existing
 employees, send them a text reminding them to get the their @$$** back to work, or... FIRE THEM!! >_<
 
+## Run
 
+Ensure that Xcode, Android SDK is setup for IOS and Android respectively
+
+1. clone
+2. cd into the directory and `npm install`
+3. Run `react-native run-ios` or `react-native run-android` for IOS/Android respectively
 
 ## Notable
 
@@ -20,20 +26,22 @@ employees, send them a text reminding them to get the their @$$** back to work, 
 * Modals in react native
 * Trigger messaging.
 
-## Features
+## GIF!
 
-### Authenticaton
+### authentication
 
-![](gif/auth.gif)
+![](http://www.giphy.com/gifs/l44QqEvxXY72IVVvy)
 
 ### Create
 
-![](gif/create.gif)
+![](http://www.giphy.com/gifs/l44QByhoa2xmkPaI8)
 
 ### Edit
 
-![](gif/edit.gif)
+![](http://www.giphy.com/gifs/26BGqVQEwzoIIH4as)
 
 ### Fire!
 
-![](gif/fire.gif)
+![](http://www.giphy.com/gifs/l44QghGooQ8zVkAk8)
+
+
