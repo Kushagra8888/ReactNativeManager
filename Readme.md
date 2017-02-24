@@ -26,22 +26,4 @@ Ensure that Xcode, Android SDK is setup for IOS and Android respectively
 * Modals in react native
 * Trigger messaging.
 
-## GIF!
-
-### Auth
-
-![](gif/auth.gif)
-
-### Create
-
-![]![](gif/create.gif)
-
-### Edit
-
-![]![](gif/edit.gif)
-
-### Fire!
-
-![]![](gif/fire.gif)
-
 
